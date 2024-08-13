@@ -15,3 +15,6 @@ package-install:
 
 lint:
 	poetry run flake8 brain_games
+
+brain-even:
+	poetry run python3 -m brain_games.scripts.brain_even
