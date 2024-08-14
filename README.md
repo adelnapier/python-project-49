@@ -13,3 +13,8 @@
 
 [![asciicast](https://asciinema.org/a/CckTVDTfTt8TqiuWblHxorkJE.svg)](https://asciinema.org/a/CckTVDTfTt8TqiuWblHxorkJE)
 
+# Brain GCD Game
+
+## Установка пакета и пример игры
+
+[![asciicast](https://asciinema.org/a/YOUR_ASCINEMA_ID.svg)](https://asciinema.org/a/YOUR_ASCINEMA_ID)
