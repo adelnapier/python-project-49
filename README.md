@@ -17,4 +17,11 @@
 
 ## Установка пакета и пример игры
 
-[![asciicast](https://asciinema.org/a/YOUR_ASCINEMA_ID.svg)](https://asciinema.org/a/YOUR_ASCINEMA_ID)
+[![asciicast](https://asciinema.org/a/YjiquPGUjhsIFkIH2K91dGkJI.svg)](https://asciinema.org/a/YjiquPGUjhsIFkIH2K91dGkJI)
+
+# Brain Progression Game
+
+## Установка пакета и пример игры
+
+[![asciicast](https://asciinema.org/a/MRdxgpZ49y19avss1ft4vcDEI.svg)](https://asciinema.org/a/MRdxgpZ49y19avss1ft4vcDEI)
+
