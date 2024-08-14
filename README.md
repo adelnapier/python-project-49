@@ -7,3 +7,9 @@
 
 [![asciicast](https://asciinema.org/a/vTImwVtMwWsXhmKM8iMXHntO1.svg)](https://asciinema.org/a/vTImwVtMwWsXhmKM8iMXHntO1)
 
+# Brain Calculater Game
+
+## Установка пакета и пример игры
+
+[![asciicast](https://asciinema.org/a/CckTVDTfTt8TqiuWblHxorkJE.svg)](https://asciinema.org/a/CckTVDTfTt8TqiuWblHxorkJE)
+
