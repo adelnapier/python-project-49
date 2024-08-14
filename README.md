@@ -25,3 +25,8 @@
 
 [![asciicast](https://asciinema.org/a/MRdxgpZ49y19avss1ft4vcDEI.svg)](https://asciinema.org/a/MRdxgpZ49y19avss1ft4vcDEI)
 
+# Brain Prime Game
+
+## Установка пакета и пример игры
+
+[![asciicast](https://asciinema.org/a/YFB9YbSeUStRQKsU6QoopmLaQ.svg)](https://asciinema.org/a/YFB9YbSeUStRQKsU6QoopmLaQ)
